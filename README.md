@@ -1,16 +1,31 @@
-## Hi there 👋
+# Peakforge
 
-<!--
-**peakforge-dev/peakforge-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Build useful things.
 
-Here are some ideas to get you started:
+Peakforge is an independent software studio building simple apps and useful tools.
+The focus is practical software, clean interfaces and solving real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Apps
+- - Utility tools
+  - - Automation
+    - - Developer tools
+      - - AI-assisted software
+       
+        - ## Philosophy
+       
+        - Software should be simple, useful and focused.
+        - Build tools that solve real problems.
+       
+        - ## Projects
+       
+        - Projects will appear here as they are released.
+       
+        - ## Contact
+       
+        - Website
+        - https://peakforge.dev
+       
+        - Email
+        - hello@peakforge.dev
